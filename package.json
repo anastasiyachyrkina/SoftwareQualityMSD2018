@@ -1,0 +1,15 @@
+{
+  "name": "UE_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Calculate.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
